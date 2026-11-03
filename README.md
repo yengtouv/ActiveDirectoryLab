@@ -18,7 +18,7 @@ Built and managed a virtualized Active Directory environment using Windows Serve
 
 <p align="center">
 Created a Nat server and made sure all of the machines were in that network:  <br/>
-<img src="https://imgur.com/e4BrRzS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/e4BrRzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuring active directory to the windows server 2022 and changing the network to 192.168.10.7: <br/>
